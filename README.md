@@ -7,7 +7,7 @@
     
 ## Hello, how's it going? Welcome to my online space! 👋
 
-My name is Enzo, I'm 22 years old, and I've been dedicated to the tech field for seven years. I completed a technical degree in IT and I'm now finishing my Bachelor's in Information Systems. Throughout this journey, I've been constantly improving my skills and seeking new opportunities in software development. My goal is to expand my knowledge and take on the challenges of this ever-evolving field.
+My name is Enzo, I'm 23 years old, and I've been dedicated to the tech field for seven years. I completed a technical degree in IT and I'm now finishing my Bachelor's in Information Systems. Throughout this journey, I've been constantly improving my skills and seeking new opportunities in software development. My goal is to expand my knowledge and take on the challenges of this ever-evolving field.
 
 
 [![Mail](https://img.shields.io/badge/email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzoalvesdupin@gmail.com)
